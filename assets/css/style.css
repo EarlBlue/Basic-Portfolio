@@ -6,8 +6,6 @@ html{
   
   body {
     margin: auto;
-    /*width: 75%;*/
-    /*align-content: center;*/
   }
   
   h3 {
@@ -60,8 +58,7 @@ html{
     position: absolute;
     bottom: 0;
     width: 100%;
-    /*margin-bottom: 0;
-    margin-left: 0;*/
+    margin-bottom: 0;
     border-top: teal 10px solid;
   }
   
